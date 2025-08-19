@@ -18,7 +18,7 @@ This is a fully responsive, modern one-page website inspired by Airbnb’s offic
 
 ## 🚀 Live Demo
 
-> Coming Soon... or open the `index.html` file directly in your browser to preview locally!
+> [Coming Soon... or open the `index.html` file directly in your browser to preview locally!](https://dinesh-uyyala.github.io/air-bnb-page-clone/)
 
 ---
 
